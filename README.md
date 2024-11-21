@@ -1,16 +1,9 @@
-# quiz_game
+#Flutter Quiz Game 🎯
+ A simple, interactive quiz game built using Flutter. The app presents multiple-choice questions, allows users to select answers, and 
+ provides instant feedback. At the end of the quiz, users can view their score and restart the game.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features
+  Multiple-choice questions: Display one question at a time with selectable answers.
+  Real-time feedback: Users receive immediate feedback ("Correct!" or "Wrong answer!") after selecting an option.
+  Score tracking: The app keeps track of the score and displays the total at the end of the quiz.
+  Restart functionality: Users can restart the quiz after completing it.
